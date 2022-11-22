@@ -1,5 +1,5 @@
 # Scraping BuiltInNYC Job Boards for Company/Job Profile Information
-Descr:
+
 Scrape job board information && extract Job/Company profile information.  
 Utilizing "https://www.builtinnyc.com/jobs" for data and Python/Requests/Pandas for scraping.
 Utilized inital scrape of website to catalog about 600 companyIDs. This is not included in the repository. Please find that data here:
